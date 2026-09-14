@@ -1,4 +1,3 @@
-package Calculadora;
 
 public class Calcular extends Calculadora {
     public void calcular(){
